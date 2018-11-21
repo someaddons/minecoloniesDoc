@@ -1,0 +1,2 @@
+# minecoloniesDoc
+Documentation of minecolonies
